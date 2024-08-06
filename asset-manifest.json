@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Nikita-Shuv/static/css/main.16cb0a67.css",
+    "main.js": "/Nikita-Shuv/static/js/main.5da6a156.js",
+    "index.html": "/Nikita-Shuv/index.html",
+    "main.16cb0a67.css.map": "/Nikita-Shuv/static/css/main.16cb0a67.css.map",
+    "main.5da6a156.js.map": "/Nikita-Shuv/static/js/main.5da6a156.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.16cb0a67.css",
+    "static/js/main.5da6a156.js"
+  ]
+}
